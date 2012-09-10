@@ -92,6 +92,7 @@
      <Compile Include="Assets\Scripts\Managers\MaterialImpactManager.js" />
      <Compile Include="Assets\Scripts\Managers\Spawner.js" />
      <Compile Include="Assets\Scripts\Managers\TextAdventureManager.js" />
+     <Compile Include="Assets\Scripts\Misc\CountdownTimer.js" />
      <Compile Include="Assets\Scripts\Misc\EndOfLevel.js" />
      <Compile Include="Assets\Scripts\Misc\PlaySoundOnTrigger.js" />
      <Compile Include="Assets\Scripts\Misc\ReBirth.js" />
