@@ -1,6 +1,6 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Misc/countdownTimer.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Movement/PlayerMoveController.js">
     <Files>
       <File FileName="Assets/Scripts/Movement/PlayerMoveController.js" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Movement/MovementMotor.js" Line="1" Column="1" />
@@ -8,9 +8,11 @@
       <File FileName="Assets/Scripts/Movement/FreeMovementMotor.js" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Movement/HoverMovementMotor.js" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Movement/Joystick.js" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Misc/ShowFps.js" Line="39" Column="11" />
+      <File FileName="Assets/Scripts/Misc/ShowFps.js" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Misc/countdownTimer.js" Line="67" Column="8" />
       <File FileName="Assets/Scripts/Fx/ColoredNoise.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Misc/CountdownTimer.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Fx/HeightDepthOfField.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
