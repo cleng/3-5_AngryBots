@@ -141,6 +141,7 @@
      <Compile Include="Assets\Scripts\Weapons\SimpleBullet.js" />
      <Compile Include="Assets\Scripts\Weapons\SlowBulletFire.js" />
      <Compile Include="Assets\Scripts\Weapons\SlowBulletFireWithNoise.js" />
+     <Compile Include="Assets\Scripts\chiang.js" />
      <Compile Include="Assets\Scripts\chiangtest.js" />
      <None Include="Assets\Shaders\Fx\Rain.shader" />
      <None Include="Assets\Shaders\BackgroundAndCharacters\RealtimeReflectionInWaterFlow.shader" />
